@@ -17,6 +17,7 @@ MODEL = "gpt-4o"
 
 """
 Secret keys for OpenAI stored in keys.py
+https://platform.openai.com/settings/profile
 Format:
 organization = 'key'
 project = 'key'
